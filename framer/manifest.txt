@@ -17,6 +17,7 @@ images/cursors/touch-active@2x.png
 images/cursors/touch-active.png
 design/images/z7aSQIk1qMQrRaLZTWdoilvLp7M.png
 design/images/HrshZb2Qh8CKaPlDMjxt3fWZtVY.jpg
+design/images/CoSqRvd4Xt1npXz6OA4eD6SNTI.jpg
 design/images/2Sem1nCPxZRqT2WU9Yrw9j0fo8.png
 design/images/1mmtL1psWjArAF3VJcnwOkdoA.jpg
 build/style.css
