@@ -18,6 +18,7 @@ images/cursors/touch-active.png
 design/images/z7aSQIk1qMQrRaLZTWdoilvLp7M.png
 design/images/HrshZb2Qh8CKaPlDMjxt3fWZtVY.jpg
 design/images/2Sem1nCPxZRqT2WU9Yrw9j0fo8.png
+design/images/1mmtL1psWjArAF3VJcnwOkdoA.jpg
 build/style.css
 build/standalone.js
 build/react.development.js
